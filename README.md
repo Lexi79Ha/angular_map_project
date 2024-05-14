@@ -1,4 +1,9 @@
-# D280assessment
+<h1>Angular Interactive Map Project</h1>
+<h3>This project uses angular to tie an svg image of a map to an Api. This allows<br>
+users to be abl to find FAQs about each country as they explore the map, by <br>
+hovering their cursor over it.</h3>
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
